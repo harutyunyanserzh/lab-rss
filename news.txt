@@ -1,1 +1,2 @@
-Hello from my Unix account|This is my first RSS entry. I will change it before submitting.
+serzh_harutyunyan first post|Hello, this is my first RSS entry.
+serzh_harutyunyan second post|Another update from my server.

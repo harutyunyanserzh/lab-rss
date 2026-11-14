@@ -1,1 +1,2 @@
-My first sine wave|sine|440
+Serzh's sine wave|sine|440
+My second episode|square|220

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>serzh_harutyunyan's little RSS feed</title>
+    <link>http://the.hell.am/~serzh_harutyunyan/</link>
+    <description>News published from a Unix shell</description>
+    <language>en</language>
+    <item>
+      <title>serzh_harutyunyan second post</title>
+      <description>Another update from my server.</description>
+      <guid isPermaLink="false">http://the.hell.am/~serzh_harutyunyan/news-item-2</guid>
+    </item>
+    <item>
+      <title>serzh_harutyunyan first post</title>
+      <description>Hello, this is my first RSS entry.</description>
+      <guid isPermaLink="false">http://the.hell.am/~serzh_harutyunyan/news-item-1</guid>
+    </item>
+  </channel>
+</rss>

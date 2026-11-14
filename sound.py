@@ -23,9 +23,7 @@ for i in range(rate * seconds):
     t = i / rate
     value = math.sin(2 * math.pi * frequency * t)
     if kind == "square":
-        # TODO (your task): a square wave should be +1 when
-        # the sine is non-negative, and -1 otherwise.
-        raise NotImplementedError("Please implement the square wave")
+            value = 1 if value >= 0 else -1
     sample = round(amplitude * value)
     samples.extend(int(sample).to_bytes(2, byteorder="little", signed=True))
 
