@@ -44,5 +44,5 @@ Yes. The sine wave (440 Hz) is a smooth, pure, higher tone. The square wave (220
 
 ## Screenshots
 
-![RSS app](screenshots/rss.png)
-![Podcast app](screenshots/podcast.png)
+![RSS app](screenshots/rss.jpg)
+![Podcast app](screenshots/podcast.jpg)
